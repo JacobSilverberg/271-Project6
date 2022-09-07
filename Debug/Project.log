@@ -1,0 +1,3 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(494,5): warning MSB8003: The VCToolsInstallDir property is not defined. Some build tools may not be found.
+  Assembling Proj6_silverbj.asm...
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Sg /Zi /Fo"Debug\Proj6_silverbj.obj" /Fl"Project.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaProj6_silverbj.asm" exited with code 1.
